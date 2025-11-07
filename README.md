@@ -110,15 +110,3 @@ This repository does not currently include a `LICENSE` file. If you'd like me to
 ## Contact
 
 Repository owner: `vasu-devs`.
-
-If you'd like, I can:
-
-- add a `LICENSE` file (e.g., MIT)
-- normalize filenames and update links across HTML files
-- add a basic GitHub Actions workflow to deploy to GitHub Pages automatically
-
-Tell me which of the above you want next and I'll implement it.
-
----
-
-_Small note:_ I kept the README focused and GitHub-friendly. If you want a README that includes screenshots, add a `screenshots/` folder or point me to images to include and I will add them with relative links.
